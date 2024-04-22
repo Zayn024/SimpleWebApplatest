@@ -100,7 +100,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Welcome today is Sunday ******</h1>
+         <h1> **** Welcome today is 21 April 2024 ******</h1>
     </section>    
     <section id="about"><h1>This is the About Page</h1></section>
     <section id="product"><h1>This is the Product Web Page !!</h1></section>
